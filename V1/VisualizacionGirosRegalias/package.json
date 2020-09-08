@@ -1,0 +1,14 @@
+{
+  "name": "@amoncadag/visualizacion-de-los-giros-del-sistema-general-de-regalias",
+  "main": "c503d40f9fc5312b@343.js",
+  "version": "343.0.0",
+  "homepage": "https://observablehq.com/@amoncadag/visualizacion-de-los-giros-del-sistema-general-de-regalias",
+  "author": {
+    "name": "Andrea Marcela Moncada Gaitán",
+    "url": "https://observablehq.com/@amoncadag"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
